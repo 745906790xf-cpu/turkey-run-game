@@ -1,5 +1,9 @@
 # Gobble Dash: Thanksgiving Escape
 
+[![make.fun · turkey-run-game-01](https://make.fun/badge/turkey-run-game-01.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![rank](https://make.fun/badge/turkey-run-game-01/745906790xf-cpu/turkey-run-game/rank.svg)](https://make.fun/bounty/turkey-run-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![reward](https://make.fun/badge/turkey-run-game-01/745906790xf-cpu/turkey-run-game/reward.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+
 An original Canvas 2D side-scrolling runner for make.fun's
 "Make the best turkey escape game" bounty (turkey-run-game-01). You are a
 turkey escaping becoming Thanksgiving dinner: outrun the farmer through the
